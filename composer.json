@@ -1,0 +1,9 @@
+{
+	"name": "sqs/sqs",
+	"type": "library",
+	"description": "Amazon SQS Class",
+	"keywords": ["AWS/SQS", "SQS", "Amazon SQS Tutorials"],
+	"homepage": "http://sourceforge.net/projects/php-sqs/",
+	"require": {
+	}
+}
